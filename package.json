@@ -1,0 +1,33 @@
+{
+  "name": "evan-bookmark_app",
+  "version": "1.0.0",
+  "description": "Bookmark App",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-heron/Evan-Bookmark_App.git"
+  },
+  "keywords": [],
+  "author": "Evan Vogts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-heron/Evan-Bookmark_App/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-heron/Evan-Bookmark_App#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
