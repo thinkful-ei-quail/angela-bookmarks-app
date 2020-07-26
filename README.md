@@ -2,7 +2,7 @@
 
 # bookmarkApp-Angela
 
-Project is running at  https://thinkful-ei-quail.github.io/bookmarkApp-Angela/
+Project is running at  https://thinkful-ei-quail.github.io/angela-bookmarks-app/
 
  Code is stored at https://github.com/thinkful-ei-quail/angela-bookmarks-app
 
