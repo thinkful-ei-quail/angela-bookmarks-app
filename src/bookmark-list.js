@@ -19,7 +19,7 @@ const addNewBookmarkForm = function () {
     <form id="js-bookmark-list-form">
 
     <div class="bookmark-title">
-        <label for="title">Title:</label>
+        <label for="title"><em>Title:</em></label>
         <input type="text" id="title" class="bookmark-title-entry" name="title" placeholder="Bookmark Title..." required>
     </div>
 
