@@ -11,6 +11,10 @@ text-align: center;
 	background-color: : blue;
 }
 
+.bookmark-URL {
+	background-color: #0000;
+}
+
 @media all and (min-width: 600px) {
    .js-bookmark-list-form{
     font-size: 18px;
